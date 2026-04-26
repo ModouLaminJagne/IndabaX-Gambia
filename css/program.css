@@ -19,7 +19,7 @@
     color: #fff;
     margin: 0;
     padding: 20px 0;
-    background-image: url(/assests/site_cover.png);
+    background-image: url(../assets/site_cover.png);
     background-size: cover;
     background-attachment: fixed;
     position: relative;

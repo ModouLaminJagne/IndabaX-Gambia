@@ -18,7 +18,7 @@ body{
     color: #333;
     height: 200vh;
     padding: 2rem 0;
-    background-image: url(../assests/site_cover.png);
+    background-image: url(../assets/site_cover.png);
     background-size: cover;
     position: relative; /* Add this line */
 }

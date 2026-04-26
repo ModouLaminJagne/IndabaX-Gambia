@@ -32,7 +32,7 @@
 }
 
 #poster_session {
-    background: url(../assests/site\ cover_2.png);
+    background: url(../assets/site\ cover_2.png);
     background-color: var(--navy);
     background-size: cover;
     color: var(--white);

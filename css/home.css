@@ -10,7 +10,7 @@
 	display: flex;
 	align-items: center;
 	min-height: 120vh;
-	background: url(../assests/site_cover.png);
+	background: url(../assets/site_cover.png);
 	background-size: cover;
 }
 
