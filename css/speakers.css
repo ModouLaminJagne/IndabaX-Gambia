@@ -441,7 +441,6 @@
 
 /* Speaker 3 */
 .speaker_number:nth-child(3) .cover::before {
-  /* background: url(https://github.com/ModouLaminJagne/IndabaX-Gambia/blob/main/assets/speakers_photos/Dr_Bah.jpg); */
   background: url(../assets/speakers_photos/Dr_Bah.jpg);
   background-size: cover;
   background-position: 0 0;

@@ -140,6 +140,6 @@ out/
 
 # image files
 # *.jpg
-*.png
-*.gif
-*.jpeg
+# *.png
+# *.gif
+# *.jpeg
