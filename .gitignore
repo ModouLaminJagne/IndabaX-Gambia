@@ -139,7 +139,7 @@ node_modules/
 out/
 
 # image files
-*.jpg
+# *.jpg
 *.png
 *.gif
 *.jpeg
